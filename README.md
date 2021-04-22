@@ -23,4 +23,5 @@ To test the model, another dataset is used (also included in the 'data_lite.rar'
 
 Outcome: the model is able to identify a defective image when provided with a reference, with 82.6 percent accuracy. Limited by the image quality and datasets, it can only identify the absence of binder currrently. 
 
-
+The full group memeber is listed here:
+W. Yuan, Y. He, Y. Wu, T. Sun, and Y. Chen
